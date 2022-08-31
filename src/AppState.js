@@ -6,7 +6,7 @@ export const AppState = reactive({
   /**@type {import('./models/Account.js').Account} */
   account: {},
 
-  clicks: 0
+  clicks: 0,
 
   toggle: true
 })
