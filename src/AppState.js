@@ -8,5 +8,7 @@ export const AppState = reactive({
 
   clicks: 0,
 
+  passiveUpgrade:
+
   toggle: true
 })
